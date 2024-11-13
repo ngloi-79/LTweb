@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(108, 160, 205);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#doc1{
+    color: rgb(156, 82, 119);
+    text-align: center;
+}
+.ds{
+    background-color: rgb(31, 51, 27);
+    color: rgb(47, 216, 92);
+    text-align: center;
+    padding: 0px;
+}
+.dss{
+    color: azure;
+    height: 50px;
+}
+ol , li{
+    margin-left: 20px;
+    padding: 8px;
+    background-color: rgb(149, 132, 184);
+    border: 1px solid rgb(194, 23, 23);
+    border-radius: 3px;
+    font-weight: lighter;
+    font-style: normal;
+}
